@@ -83,14 +83,32 @@ graph TD
 </p>
 
 ---
+## 👤 Mentora
 
-## 👤 Sobre o Autor
+**Cyntia Sayuri de Almeida**
+
+Professora de Web Designe Responsivo e UX Designe na Fiap. 
+
+---
+## 👤 Sobre os Autores
+
+**Guilherme Saraiva Fiorentin**
+
+Estudante em Defesa Cibernética na Fiap.
+
+
+**João Felipe Gomes de Souza**
+
+Estudante em Análise e Desenvolvimento de Sistemas na Fiap.
+
 
 **Paulo Cezar Pereira Limeira**  
-Empreendedor e pesquisador em tecnologias sociais com foco em IA aplicada, robótica afetiva e experiências imersivas.
 
-🔗 GitHub: [PauloCezarPereiraLimeira](https://github.com/PauloCezarPereiraLimeira)  
-📧 Contato: *[pc4691529@gmail.com]*
+Estudante em Defesa Cibernética na Fiap.
+
+**Ray Caldas**
+
+Estudante em Análise e Desenvolvimento de Sistemas na Fiap.
 
 ---
 
