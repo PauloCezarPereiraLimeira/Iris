@@ -90,7 +90,7 @@ graph TD
 Empreendedor e pesquisador em tecnologias sociais com foco em IA aplicada, robótica afetiva e experiências imersivas.
 
 🔗 GitHub: [PauloCezarPereiraLimeira](https://github.com/PauloCezarPereiraLimeira)  
-📧 Contato: *[inserir seu e-mail ou portfólio]*
+📧 Contato: *[pc4691529@gmail.com]*
 
 ---
 
