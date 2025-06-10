@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">
 🤖 IRIS – Plataforma de Robótica Social com Inteligência Emocional Artificial
 </h1>
@@ -90,28 +91,3 @@ graph TD
   D -->|Texto| F[🔊 Síntese de Voz]
   E --> G[🦾 Atuadores e Animações]
   F --> H[🔊 Fala da IRIS]
-
-
---
-## 🎯 Casos de Uso Estratégicos
-
-- 👨‍🏫 Educação: Interação em escolas, museus e centros de aprendizagem.
-
-- 👵 Saúde e Bem-estar: Companheirismo para idosos e apoio a pessoas com necessidades especiais.
-
-- 🎤 Eventos: Apresentação digital e interação em feiras e conferências.
-
-- 🧪 Pesquisa: Plataforma para experimentos em IHC e robótica social.
-
----
-
-## 📸 Protótipo IRIS
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PauloCezarPereiraLimeira/IRIS/main/images/iris-prototype.png" width="600" alt="Protótipo IRIS" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Animação IRIS" />
-</p>
-
