@@ -79,18 +79,6 @@
 
 ---
 
-## 🧠 Diagrama Funcional
-
-```mermaid
-graph TD
-  A[Usuário] -->|Fala| B[🎤 Reconhecimento de Voz]
-  B --> C[🧠 NLP + LLM]
-  C --> D[💬 Respostas Inteligentes]
-  C --> E[🎭 Comandos de Expressão]
-  D -->|Texto| F[🔊 Síntese de Voz]
-  E --> G[🦾 Atuadores e Animações]
-  F --> H[🔊 Fala da IRIS]
-
 ---
 
 ## 🎯 Casos de Uso Estratégicos
@@ -110,3 +98,17 @@ graph TD
 <p align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Animação IRIS" />
 </p>
+
+## 🧠 Diagrama Funcional
+
+```mermaid
+graph TD
+  A[Usuário] -->|Fala| B[🎤 Reconhecimento de Voz]
+  B --> C[🧠 NLP + LLM]
+  C --> D[💬 Respostas Inteligentes]
+  C --> E[🎭 Comandos de Expressão]
+  D -->|Texto| F[🔊 Síntese de Voz]
+  E --> G[🦾 Atuadores e Animações]
+  F --> H[🔊 Fala da IRIS]
+
+
