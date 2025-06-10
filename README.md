@@ -64,65 +64,12 @@ graph TD
 
 ---
 
-## 📦 Roadmap
-
-| Fase | Status | Entregas |
-|------|--------|----------|
-| Fase 1 | ⏳ Em planejamento | Protótipo físico com tela, voz e rodas |
-| Fase 2 | ⏳ Em planejamento | Integração GPT-4 + TTS/STT |
-| Fase 3 | ⏳ Em planejamento | Detecção emocional facial e vocal |
-| Fase 4 | ⏳ Em planejamento  | IA adaptativa com aprendizado local |
-| Fase 5 | ⏳ Em planejamento | Publicações científicas e testes de campo |
-
----
 
 ## 📸 Protótipo
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PauloCezarPereiraLimeira/IRIS/main/images/iris-prototype.png" width="600" alt="Protótipo IRIS" />
 </p>
-
----
-## 👤 Mentora
-
-**Cyntia Sayuri de Almeida**
-
-Professora de Web Designe Responsivo e UX Designe na Fiap. 
-
----
-## 👤 Sobre os Autores
-
-**Guilherme Saraiva Fiorentin**
-
-Estudante em Defesa Cibernética na Fiap.
-
-
-**João Felipe Gomes de Souza**
-
-Estudante em Análise e Desenvolvimento de Sistemas na Fiap.
-
-
-**Paulo Cezar Pereira Limeira**  
-
-Estudante em Defesa Cibernética na Fiap.
-
-**Ray Caldas**
-
-Estudante em Análise e Desenvolvimento de Sistemas na Fiap.
-
----
-
-## 🤝 Captação e Apoio
-
-Estamos abertos a:
-
-- Colaborações com **instituições científicas**
-- Parcerias com **empresas de base tecnológica**
-- Submissão a **editais de inovação, ICTs e fomento público**
-- Criação de **provas de conceito em ambientes reais**
-
-> **Quer apoiar ou investir?**  
-> Entre em contato e seja parte da evolução da interação homem-máquina.
 
 ---
 
