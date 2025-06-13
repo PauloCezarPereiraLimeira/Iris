@@ -29,7 +29,7 @@
 
 ## 🧱 Arquitetura Modular & Responsabilidades
 
-### 👤 Pessoa 1 – Backend Embarcado e Controle Físico  
+### Módulo 1 – Backend Embarcado e Controle Físico  
 **Missão:** Orquestrar a comunicação e controle do hardware, garantindo robustez e confiabilidade no corpo físico.
 
 - Implementar comunicação serial e protocolos (I2C, PWM, GPIO).  
@@ -42,7 +42,7 @@
 
 ---
 
-### 👤 Pessoa 2 – Núcleo de Inteligência Artificial (IA e Percepção)  
+### Módulo 2 – Núcleo de Inteligência Artificial (IA e Percepção)  
 **Missão:** Desenvolver o cérebro da IRIS para percepção, cognição e comunicação natural.
 
 - Pipeline completo de áudio: captura, detecção de voz e transcrição offline (Whisper.cpp, Vosk).  
@@ -55,7 +55,7 @@
 
 ---
 
-### 👤 Pessoa 3 – Interface Visual (HUD e Expressividade Facial)  
+### Módulo 3 – Interface Visual (HUD e Expressividade Facial)  
 **Missão:** Criar uma interface visual expressiva e interativa para o "rosto" da IRIS.
 
 - Desenvolvimento UI com Pygame/Kivy para hardware embarcado.  
@@ -67,7 +67,7 @@
 
 ---
 
-### 👤 Pessoa 4 – Arquiteto de Integração e Orquestração  
+### Módulo 4 – Arquiteto de Integração e Orquestração  
 **Missão:** Integrar todos os módulos em um sistema coeso, resiliente e escalável.
 
 - FSM mestre para orquestração dos estados globais da IRIS.  
